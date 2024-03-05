@@ -1,0 +1,438 @@
+"","cycle","state","modeldate","candidate_name","startdate","enddate","pollster","samplesize","population","weight","pct","house_adjusted_pct","trend_and_house_adjusted_pct","tracking","poll_id","question_id"
+"1",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44075",44104,"SurveyMonkey",4613,"lv",0.5576418,51.74,50.42497,51.25911,"T",70307,131002
+"2",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44092",44119,"SurveyMonkey",7804,"lv",0.0514985,53,51.68642,51.92569,"T",71193,133328
+"3",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44105",44132,"SurveyMonkey",2549,"lv",0.4175465,52,50.68518,50.64987,"T",72254,135594
+"4",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44062",44071,"Morning Consult",797,"lv",0.0889819,51,50.89549,52.13099,"T",68454,128140
+"5",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44063",44072,"Morning Consult",797,"lv",0.0865649,51,50.89549,52.12911,"T",68455,128141
+"6",2020,"National",44138,"Joseph R. Biden Jr.","44093",44095,"SurveyMonkey",9248,"lv",0.0256242,51.45,50.42111,51.33355,"T",70902,132681
+"7",2020,"National",44138,"Joseph R. Biden Jr.","44089",44091,"SurveyMonkey",18003,"lv",0.0497573,53.08,52.0526,53.09402,"T",70898,132677
+"8",2020,"National",44138,"Joseph R. Biden Jr.","44090",44092,"SurveyMonkey",16194,"lv",0.0446412,52.46,51.43187,52.44317,"T",70899,132678
+"9",2020,"National",44138,"Joseph R. Biden Jr.","44091",44093,"SurveyMonkey",12696,"lv",0.034951,51.32,50.29105,51.27063,"T",70900,132679
+"10",2020,"National",44138,"Joseph R. Biden Jr.","44092",44094,"SurveyMonkey",8738,"lv",0.0241282,51.59,50.56118,51.50772,"T",70901,132680
+"11",2020,"National",44138,"Joseph R. Biden Jr.","44094",44096,"SurveyMonkey",13675,"lv",0.0379662,52.68,51.65211,52.52618,"T",70903,132682
+"12",2020,"National",44138,"Joseph R. Biden Jr.","44096",44098,"SurveyMonkey",22170,"lv",0.0612739,52.37,51.34178,52.13557,"T",70905,132684
+"13",2020,"National",44138,"Joseph R. Biden Jr.","44097",44099,"SurveyMonkey",23974,"lv",0.0667864,52.1,51.07154,51.82502,"T",70906,132685
+"14",2020,"National",44138,"Joseph R. Biden Jr.","44098",44100,"SurveyMonkey",21047,"lv",0.0595361,51.71,50.68125,51.3933,"T",70907,132686
+"15",2020,"National",44138,"Joseph R. Biden Jr.","44099",44101,"SurveyMonkey",15443,"lv",0.0446186,51.74,50.71127,51.3777,"T",70908,132687
+"16",2020,"National",44138,"Joseph R. Biden Jr.","44100",44102,"SurveyMonkey",15482,"lv",0.0457482,51.89,50.86137,51.47955,"T",70909,132688
+"17",2020,"National",44138,"Joseph R. Biden Jr.","44101",44103,"SurveyMonkey",20951,"lv",0.0633046,51.85,50.82134,51.39215,"T",70910,132689
+"18",2020,"National",44138,"Joseph R. Biden Jr.","44102",44104,"SurveyMonkey",24292,"lv",0.0772955,51.78,50.7513,51.1552,"T",70911,132690
+"19",2020,"National",44138,"Joseph R. Biden Jr.","44103",44105,"SurveyMonkey",24022,"lv",0.0768573,52.02,50.99147,51.35799,"T",70912,132691
+"20",2020,"National",44138,"Joseph R. Biden Jr.","44104",44106,"SurveyMonkey",21170,"lv",0.0639868,51.96,50.93142,51.1632,"T",70913,132692
+"21",2020,"National",44138,"Joseph R. Biden Jr.","44105",44107,"SurveyMonkey",17645,"lv",0.0515271,52.04,51.01149,51.21507,"T",70914,132693
+"22",2020,"National",44138,"Joseph R. Biden Jr.","44106",44108,"SurveyMonkey",12510,"lv",0.035309,52.33,51.30174,51.47744,"T",70915,132694
+"23",2020,"National",44138,"Joseph R. Biden Jr.","44107",44109,"SurveyMonkey",12691,"lv",0.0345475,52.72,51.69215,51.84409,"T",70916,132695
+"24",2020,"National",44138,"Joseph R. Biden Jr.","44108",44110,"SurveyMonkey",20168,"lv",0.0532837,53.26,52.23285,52.36133,"T",70917,132696
+"25",2020,"National",44138,"Joseph R. Biden Jr.","44109",44111,"SurveyMonkey",30687,"lv",0.0792478,53.28,52.25288,52.35821,"T",70918,132697
+"26",2020,"National",44138,"Joseph R. Biden Jr.","44110",44112,"SurveyMonkey",33925,"lv",0.0801546,53.35,52.32298,52.36193,"T",70919,132698
+"27",2020,"National",44138,"Joseph R. Biden Jr.","44111",44113,"SurveyMonkey",34460,"lv",0.0786327,52.74,51.71218,51.73128,"T",70920,132699
+"28",2020,"National",44138,"Joseph R. Biden Jr.","44112",44114,"SurveyMonkey",25748,"lv",0.0553771,52.36,51.33177,51.31301,"T",70921,132700
+"29",2020,"National",44138,"Joseph R. Biden Jr.","44113",44115,"SurveyMonkey",19886,"lv",0.0414933,51.49,50.46113,50.42536,"T",70922,132701
+"30",2020,"National",44138,"Joseph R. Biden Jr.","44114",44116,"SurveyMonkey",10971,"lv",0.0222101,51.78,50.7513,50.70082,"T",70923,132702
+"32",2020,"National",44138,"Joseph R. Biden Jr.","44088",44090,"SurveyMonkey",18332,"lv",0.0509818,53.26,52.23285,53.30558,"T",70897,132676
+"33",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44108",44109,"Public Policy Polling",911,"v",1.22716,50,49.32602,49.42479,"F",70576,131666
+"34",2020,"North Carolina",NA,"Joseph R. Biden Jr.","44035",44036,"Public Policy Polling",884,"v",0.6633006,49,47.85161,49.04854,"F",67789,126872
+"35",2020,"North Carolina",44138,"Joseph R. Biden Jr.","43968",43977,"Morning Consult",1403,"lv",1.074904,46,45.84879,47.94419,"T",67799,126885
+"36",2020,"North Carolina",44138,"Joseph R. Biden Jr.","43934",43937,"GBAO",500,"lv",0.8061572,48,47.87635,49.98863,"F",67053,125282
+"37",2020,"North Carolina",44138,"Joseph R. Biden Jr.","43990",44012,"SurveyMonkey",1498,"lv",0.5789885,49.22,47.57825,48.6743,"F",70470,131324
+"38",2020,"North Carolina",44138,"Joseph R. Biden Jr.","43996",43999,"Redfield & Wilton Strategies",902,"lv",0.8065658,46,47.11643,48.23368,"F",66905,124932
+"39",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44002",44005,"Fox News/Beacon Research/Shaw & Co. Research",1012,"rv",1.557636,47,47.89174,48.94084,"F",66918,124955
+"40",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44004",44007,"East Carolina University",1149,"rv",1.077109,45.1,46.05733,47.10093,"F",66953,125022
+"41",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44008",44010,"Change Research",468,"lv",0.4795664,51,50.9263,51.97267,"F",66959,125032
+"42",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44013",44043,"SurveyMonkey",3466,"lv",0.6403064,48.59,46.94926,48.19425,"F",70419,131222
+"43",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44019",44020,"Public Policy Polling",818,"v",0.9859976,50,49.32602,50.51114,"F",67044,125267
+"44",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44022",44024,"Change Research",655,"lv",0.6103566,47,46.92645,48.11309,"F",67090,125353
+"45",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44024",44028,"Spry Strategies",700,"lv",0.7138253,45.52,47.18867,48.39563,"F",67627,126527
+"46",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44025",44027,"Cardinal Point Analytics (CardinalGPS)",547,"lv",0.5816114,47.7,48.31337,49.52461,"F",67586,126453
+"47",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44026",44034,"Marist College",882,"rv",1.553549,51,50.58697,51.8398,"F",67669,126680
+"48",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44029",44038,"Morning Consult",1504,"lv",1.099591,47,46.84851,48.03346,"T",67691,126755
+"49",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44031",44033,"Redfield & Wilton Strategies",919,"lv",0.8124298,43,44.10795,45.30535,"F",67839,126983
+"50",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44033",44035,"Zogby Interactive/JZ Analytics",809,"lv",0.9108042,44,45.16585,46.36098,"F",67917,127143
+"51",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44034",44036,"Cardinal Point Analytics (CardinalGPS)",735,"lv",0.7352689,46.8,47.41267,48.60242,"F",67834,126975
+"52",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44035",44043,"HIT Strategies",400,"rv",0.4186061,47,46.58477,47.74956,"F",67983,127298
+"53",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44036",44038,"Change Research",284,"lv",0.3340968,49,48.9263,50.09818,"F",67811,126905
+"54",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44036",44045,"Data for Progress",1170,"lv",1.227438,47.5,47.13413,48.28976,"F",67937,127192
+"55",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44040",44043,"YouGov",1129,"lv",1.360219,48,47.99105,49.14478,"F",67859,127044
+"56",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44042",44043,"Public Policy Polling",934,"v",0.7350445,49,47.85161,48.99701,"F",67985,127305
+"57",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44044",44074,"SurveyMonkey",2914,"lv",0.6306757,48,46.36051,47.4614,"F",70369,131120
+"58",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44049",44050,"Rasmussen Reports/Pulse Opinion Research",750,"lv",0.8990448,47.26,47.83395,48.9149,"F",67984,127302
+"59",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44049",44053,"Harper Polling",600,"lv",0.9784637,45,46.60909,47.6485,"F",68051,127443
+"60",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44050",44052,"Change Research",491,"lv",0.5680547,47,46.92645,47.9892,"F",68014,127365
+"61",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44050",44059,"Morning Consult",1493,"lv",0.9235623,49,48.84819,49.84546,"T",68284,127905
+"62",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44051",44053,"Emerson College",673,"lv",1.209291,49.41,48.91355,49.97494,"F",68006,127353
+"63",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44055",44056,"East Carolina University",1255,"rv",1.121653,46.5,47.4599,48.47969,"F",68076,127504
+"64",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44057",44066,"Morning Consult",1541,"lv",0.8652651,49,48.84819,49.91556,"F",68178,127696
+"65",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44059",44060,"Redfield & Wilton Strategies",967,"lv",0.8282902,44,45.11135,46.13823,"F",68156,127657
+"66",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44064",44066,"Change Research",560,"lv",0.6481425,48,47.92636,49.05305,"F",68207,127744
+"67",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44064",44073,"Morning Consult",1567,"lv",0.7512193,49,48.84819,49.98857,"T",68295,127916
+"68",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44071",44082,"Benenson Strategy Group/GS Strategy Group",1600,"lv",2.26868,48,47.91197,49.01786,"F",68576,128402
+"69",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44072",44073,"East Carolina University",1101,"lv",1.125847,46.6,46.67371,47.85116,"F",68307,127932
+"70",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44072",44075,"Fox News/Beacon Research/Shaw & Co. Research",722,"lv",1.331984,50,50.00501,51.18423,"F",68339,128019
+"71",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44072",44075,"Monmouth University",401,"lv",0.9082416,48,47.83427,48.98732,"F",68464,128156
+"72",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44072",44081,"Morning Consult",2549,"lv",0.9601743,48,47.84831,48.95636,"T",68548,128325
+"73",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44072",44087,"Kaiser Family Foundation",1172,"rv",1.67781,45,46.46817,47.55017,"F",69502,129468
+"74",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44073",44077,"Redfield & Wilton Strategies",951,"lv",0.6910198,43,44.10795,45.24002,"F",68523,128288
+"75",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44075",44104,"SurveyMonkey",3475,"lv",0.5397518,52.21,50.56799,51.45257,"T",70318,131013
+"76",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44078",44080,"Change Research",442,"lv",0.5026088,49,48.9263,50.028,"F",68536,128311
+"77",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44081",44082,"Rasmussen Reports/Pulse Opinion Research",1000,"lv",1.034299,47.94,48.51437,49.59297,"F",69408,129258
+"78",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44083",44085,"Trafalgar Group",1046,"lv",0.6584518,46.1,48.10265,49.15794,"F",69442,129335
+"79",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44083",44087,"SSRS",787,"lv",1.120816,49,48.19737,49.22852,"F",69462,129368
+"80",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44084",44087,"SurveyUSA",596,"lv",1.198986,47,46.55131,47.5979,"F",69444,129337
+"81",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44085",44088,"Suffolk University",500,"lv",1.00103,46.8,47.10757,48.11973,"F",69504,129473
+"82",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44085",44090,"Ipsos",586,"lv",0.851409,47,47.50981,48.51365,"F",69662,129867
+"83",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44085",44090,"Siena College/The New York Times Upshot",653,"lv",1.382465,45,45.64341,46.64757,"F",69525,129508
+"84",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44086",44089,"Redfield & Wilton Strategies",1092,"lv",0.6404983,47,48.11811,49.1132,"F",69545,129563
+"85",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44089",44116,"SurveyMonkey",4912,"lv",0.591620118676123,52,50.35776,50.69674,"T",70958,132788
+"86",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44089",NA,"SurveyMonkey",5112,"lv",0.0501925,52,50.35776,50.66297,"T",71036,132982
+"87",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44090",44092,"Emerson College",717,"lv",1.27042,50.81,50.31351,51.2321,"F",69570,129616
+"88",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44090",NA,"SurveyMonkey",5387,"lv",0.0959435,52,50.35776,50.63032,"T",71130,133189
+"89",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44091",44094,"Harper Polling",612,"lv",0.9923094,44,45.60521,46.42874,"F",69650,129955
+"90",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44092",44094,"Change Research",579,"lv",0.5966712,48,47.92636,48.77554,"F",69684,129906
+"91",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44092",44096,"Meredith College",705,"rv",0.7444701,45.7,46.83889,47.67994,"F",70010,130412
+"92",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44092",44099,"University of Massachusetts Lowell",921,"lv",1.369749,47.5,47.82693,48.58702,"F",70044,130466
+"93",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44092",44119,"SurveyMonkey",5735,"lv",0.0493451,52,50.35776,50.59957,"T",71204,133339
+"94",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44093",44120,"SurveyMonkey",5989,"lv",0.0483673,52,50.35776,50.5706,"T",71265,133466
+"95",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44094",44121,"SurveyMonkey",6100,"lv",0.0469036,52,50.35776,50.54639,"T",71323,133583
+"96",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44095",44122,"SurveyMonkey",6225,"lv",0.591620118676123,52,50.35776,50.51808,"T",71405,133745
+"97",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44095",44123,"SurveyMonkey",6483,"lv",0.087368,52,50.35776,50.49634,"T",71490,133928
+"98",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44096",44099,"YouGov",1213,"lv",1.411611,48,47.99105,48.6738,"F",69992,130352
+"99",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44096",44102,"ALG Research",822,"v",0.6241342,50,48.70365,49.34225,"F",70106,130600
+"100",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44097",44100,"Redfield & Wilton Strategies",1097,"lv",0.6668124,47,48.11811,48.74291,"F",70124,130651
+"101",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44097",44124,"SurveyMonkey",6850,"lv",0.0461326,52,50.35776,50.47496,"T",71592,134140
+"102",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44098",44101,"Garin-Hart-Yang Research Group",400,"lv",0.565323,49,47.71228,48.32658,"F",70133,130664
+"103",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44098",44125,"SurveyMonkey",7119,"lv",0.0468773,52,50.35776,50.45454,"T",71705,134365
+"104",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44099",44126,"SurveyMonkey",7271,"lv",0.591620118676123,52,50.35776,50.43579,"T",71788,134564
+"105",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44099",44127,"SurveyMonkey",7530,"lv",0.0723681,52,50.35776,50.3774,"T",71849,134695
+"106",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44101",44128,"SurveyMonkey",7620,"lv",0.591620118676123,52,50.35776,50.36425,"T",71916,134830
+"107",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44101",44129,"SurveyMonkey",7766,"lv",0.0952857,52,50.35776,50.35212,"T",72001,135004
+"108",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44103",44110,"Ipsos",601,"lv",0.7594614,47,47.50981,47.72636,"F",70616,132032
+"109",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44104",44109,"Data for Progress",1285,"lv",0.8660193,51,50.00449,50.14535,"F",70657,132125
+"110",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44104",44131,"SurveyMonkey",8354,"lv",0.027237,51,49.35719,49.32861,"T",72111,135238
+"111",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44105",44132,NA,8720,"lv",0.4078603,52,50.35776,50.32813,"T",72265,135605
+"112",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44106",44108,"Change Research",396,"lv",0.4976829,49,48.9263,49.05155,"F",70607,132012
+"113",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44106",44108,"East Carolina University",1232,"lv",1.098552,50.4,50.47392,50.62245,"F",70614,132028
+"114",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44106",44115,"Morning Consult",1993,"lv",0.9278,50,49.84815,49.86258,"T",70758,132367
+"115",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44108",44110,"Redfield & Wilton Strategies",938,"lv",0.4888562,49,50.11975,50.20273,"F",70707,132261
+"116",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44111",44115,"RMG Research",800,"lv",0.8106462,47,47.77621,47.7742,"F",70797,132449
+"117",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44111",44115,"Susquehanna Polling & Research Inc.",500,"lv",0.6815998,48,48.36422,48.36791,"F",70990,132847
+"118",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44111",44117,"Ipsos",660,"lv",0.6602848,48,48.5104,48.49193,"F",70786,132431
+"119",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44112",44115,"Monmouth University",500,"lv",1.129217,49.5,49.33411,49.29909,"F",70780,132414
+"120",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44112",44115,"SurveyUSA",669,"lv",1.314094,50,49.55013,49.53636,"F",70743,132432
+"121",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44113",NA,"Siena College/The New York Times Upshot",627,"lv",1.314971,46,46.64479,46.60834,"F",70998,132861
+"122",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44115",44124,"Morning Consult",1904,"lv",0.8454283,50,49.84815,49.77348,"T",71643,134215
+"123",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44115",NA,"Civiqs",1211,"lv",1.037819,51,50.05919,50.01477,"F",71070,133032
+"124",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44116",44121,"ABC News/The Washington Post",646,"lv",1.407856,49.5,49.22849,49.18126,"F",71441,133793
+"125",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44117",NA,"Emerson College",721,"lv",1.202496,49.2,48.7036,48.64693,"F",71161,133223
+"126",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44118",44124,"Ipsos",660,"lv",0.6215126,49,49.51072,49.45313,"F",71463,133846
+"127",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44119",44122,"Data for Progress",929,"lv",0.6487843,48,47.006,46.95403,"F",71752,134442
+"128",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44119",44122,"East Carolina University",1155,"lv",0.9392156,50.6,50.67391,50.6295,"F",71452,133822
+"129",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44120",44123,"Change Research",521,"lv",0.5323088,50,49.92628,49.85628,"F",71522,133960
+"130",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44120",44123,"Meredith College",732,"lv",0.8143851,48.1,48.35454,48.31055,"F",71746,134425
+"131",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44120",44133,"SurveyMonkey",5356,"lv",0.034702,51,49.35719,49.33493,"T",72368,135808
+"132",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44121",44124,"Citizen Data",1000,"lv",0.8386342,50.15,49.93648,49.888,"F",72183,135393
+"133",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44124",44125,"Rasmussen Reports/Pulse Opinion Research",800,"lv",0.772267,48,48.5744,48.50755,"F",71662,134249
+"134",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44124",44126,"Trafalgar Group",1098,"lv",0.5136473,46,48.00235,47.93728,"F",71891,134752
+"135",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44124",44127,"YouGov",1022,"lv",1.082115,51,50.99104,50.94944,"F",71889,134747
+"136",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44124",44130,NA,911,"lv",1.36006,48,48.32711,48.28825,"F",72207,135447
+"137",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44125",44131,"Ipsos",647,"lv",0.6158097,49,49.51072,49.46658,"F",72059,135092
+"138",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44126",44129,"Harper Polling",504,"lv",0.8616698,47,48.61436,48.53727,"F",72139,135268
+"139",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44127",44130,"SurveyUSA",627,"lv",1.253385,48,47.55069,47.54078,"F",72061,135097
+"140",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44127",44130,NA,396,"lv",0.2462258,50.2,49.43082,49.4129,"F",72303,135643
+"141",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44127",44131,NA,1034,"lv",2.090692,48,48.64655,48.62294,"F",72215,135476
+"142",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44127",44134,"SSRS",901,"lv",1.216466,51,50.19704,50.17222,"F",72418,135883
+"143",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44128",44130,"RMG Research",800,"lv",0.8138771,48,48.77704,48.75361,"F",72054,135084
+"144",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44128",44131,"Meeting Street Research",600,"lv",0.7014403,48,49.04302,48.99615,"F",72397,135837
+"145",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44129",44132,"Marist College",800,"lv",1.611677,52,50.69932,50.71867,"F",72331,135702
+"146",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44130",44131,"Gravis Marketing",614,"lv",0.7707279,49,49.5144,49.51551,"F",72153,135302
+"147",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44130",44131,"Public Policy",937,"v",0.9492856,51,49.85094,49.84616,"F",72057,135090
+"148",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44130",44133,NA,903,"lv",0.9176647,49,49.4188,49.41081,"F",72236,135522
+"149",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44131",44132,"East Carolina University",1103,"lv",1.042639,50.32,50.39392,50.39997,"F",72332,135709
+"150",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44131",44132,NA,750,"lv",0.868606,45.9,46.51174,46.49648,"F",72321,135682
+"151",2020,"North Carolina",44138,"Joseph R. Biden Jr.","44132",44133,NA,800,"lv",0.8310384,47,47.57376,47.56439,"F",72326,135691
+"152",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44127",44130,"Swayable",491,"lv",0.2296114,51.9,51.66276,51.64037,"F",72307,135647
+"153",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44127",44127,"Gravis Marketing",602,"lv",0.7624036,51,51.23043,51.19273,"F",71824,134618
+"154",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44127",44131,"Quinnipiac University",1324,"lv",1.659661,51,49.90831,49.87751,"F",72222,135487
+"155",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","43888",43893,"Civiqs",2462,"a",0.9992957,46,46.68612,48.88914,"F",71656,134242
+"156",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","43904",43908,"Civiqs",1589,"a",0.7600638,46,46.68612,49.02021,"F",71655,134241
+"157",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","43925",43929,"Civiqs",1912,"a",0.9893469,47,47.68723,50.31694,"F",71654,134240
+"158",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","43968",43977,"Morning Consult",2120,"lv",1.211936,48,47.83828,49.98344,"T",67801,126887
+"159",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","43981",43984,"Civiqs",2045,"a",0.8522091,49,49.68839,51.34432,"F",71653,134239
+"160",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","43988",43993,"Civiqs",1221,"a",0.5665522,49,49.68839,51.02766,"F",71652,134238
+"161",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","43990",44012,"SurveyMonkey",2184,"lv",0.6113764,50.14,48.82467,50.0032,"F",70459,131313
+"162",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44011",44014,"Trafalgar Group",1062,"lv",0.6611881,48,50.44634,51.64483,"F",66997,125183
+"163",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44013",44043,"SurveyMonkey",4208,"lv",0.6495393,50.29,48.97462,50.28554,"F",70409,131211
+"164",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44021",44025,"Monmouth University",401,"lv",0.9082416,51.5,51.07862,52.36125,"F",67101,125391
+"165",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44022",44024,"Change Research",743,"lv",0.6155448,50,50.48972,51.77295,"F",67091,125354
+"166",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44027",44028,"Rasmussen Reports/Pulse Opinion Research",750,"lv",0.8990448,51,51.4181,52.69289,"F",67600,126475
+"167",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44027",44032,"Spry Strategies",700,"lv",0.7138253,47.02,48.81589,50.07093,"F",67628,126528
+"168",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44029",44034,"Hodas & Associates",600,"lv",0.7015365,50.83,51.32417,52.52066,"F",67907,127130
+"169",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44029",44038,"Morning Consult",2092,"lv",1.207903,50,49.8381,51.04383,"T",67693,126757
+"170",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44030",44032,"Fox News/Beacon Research/Shaw & Co. Research",793,"rv",1.283909,50,50.56985,51.82428,"F",67647,126563
+"171",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44031",44033,"Redfield & Wilton Strategies",1016,"lv",0.8434952,48,48.72272,49.95597,"F",67841,126985
+"172",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44032",44038,"Franklin & Marshall College",667,"rv",0.90144,50,50.98394,52.20291,"F",67836,126979
+"173",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44033",44035,"Zogby Interactive/JZ Analytics",809,"lv",0.9108042,44,45.61366,46.83666,"F",67916,127142
+"174",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44034",44036,"Gravis Marketing",1006,"lv",0.9798656,48,48.2303,49.45415,"F",67659,126662
+"175",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44036",44038,"Change Research",382,"lv",0.4084386,48,48.48935,49.68142,"F",67812,126906
+"176",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44039",44049,"YouGov",742,"rv",0.6734251,50,50.81877,51.94977,"F",67969,127273
+"177",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44044",44074,"SurveyMonkey",3531,"lv",0.641258,52.76,51.44606,52.54606,"F",70359,131109
+"178",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44045",44047,"OnMessage Inc.",400,"lv",0.5514615,50,51.21359,52.31232,"F",68115,127579
+"179",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44047",44050,"YouGov",1211,"lv",1.190209,49,48.93061,50.00671,"F",67962,127266
+"180",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44050",44052,"Change Research",456,"lv",0.5331308,48,48.48935,49.51677,"F",68015,127366
+"181",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44050",44059,"Morning Consult",1777,"lv",1.156262,50,49.8381,50.78598,"T",68285,127906
+"182",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44051",44053,"Emerson College",843,"lv",1.436415,53.31,52.4561,53.4774,"F",68007,127354
+"183",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44054",44060,"Muhlenberg College",416,"lv",0.8952302,49,48.76827,49.77896,"F",68138,127631
+"184",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44056",44060,"Civiqs",617,"rv",0.5686046,51,50.36877,51.33498,"F",68148,127645
+"185",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44056",44062,"Global Strategy Group",801,"rv",0.5862823,51.5,50.68467,51.70432,"F",68264,127876
+"186",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44059",44060,"Redfield & Wilton Strategies",1006,"lv",0.8404686,48,48.72272,49.71105,"F",68157,127658
+"187",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44060",44066,"Franklin & Marshall College",681,"rv",0.9141793,49,49.98394,51.0765,"F",68221,127781
+"188",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44063",44067,"GQR Research (GQRR)",500,"lv",0.7012613,52,50.22805,51.35049,"F",68259,127869
+"189",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44064",44066,"Change Research",984,"lv",0.8284237,49,49.48966,50.62167,"F",68208,127745
+"190",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44064",44073,"Morning Consult",2158,"lv",0.9042551,49,48.83814,49.97576,"T",68296,127917
+"191",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44068",44070,"Rasmussen Reports/Pulse Opinion Research",1000,"lv",1.034299,47.82,48.23784,49.39486,"F",68461,128152
+"192",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44069",44074,"Hodas & Associates",600,"lv",0.7015365,51.12,51.61408,52.70861,"F",68484,128205
+"193",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44069",44075,"ALG Research",500,"lv",0.6473723,50,49.87816,51.00852,"F",70092,130584
+"194",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44071",44074,"Monmouth University",400,"lv",0.9060031,48.5,48.07876,49.19991,"F",68319,127965
+"195",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44071",44075,"Quinnipiac University",1107,"lv",1.636533,52,50.90884,52.0364,"F",68466,128167
+"196",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44071",44082,"Benenson Strategy Group/GS Strategy Group",1600,"lv",2.26868,49,49.23656,50.30337,"F",68581,128408
+"197",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44072",44081,"Morning Consult",2227,"lv",1.041242,50,49.8381,50.89816,"T",68550,128327
+"198",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44074",44081,"Marist College",771,"lv",1.560091,53,52.2066,53.27057,"F",68532,128302
+"199",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44077",44080,"TargetSmart/William & Mary",835,"lv",0.8708358,51,50.74911,51.80082,"F",69392,129237
+"200",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44078",44080,"Change Research",829,"lv",0.7047589,50,50.48972,51.55084,"F",68537,128312
+"201",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44082",44085,"Climate Nexus",659,"rv",0.6591295,48,49.10949,50.1032,"F",69559,129592
+"202",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44082",44096,"Baldwin Wallace University",1012,"lv",0.7620288,47.3,48.12308,49.02236,"F",69702,129962
+"203",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44084",44095,"YouGov",642,"lv",0.9724195,49,48.93061,49.83854,"F",69715,130005
+"204",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44085",44089,"Civiqs",549,"rv",0.5378139,52,51.36915,52.31794,"F",69537,129546
+"205",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44085",44090,"Ipsos",611,"lv",0.8740835,49,49.4436,50.39291,"F",69626,129812
+"206",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44086",44088,"Redfield & Wilton Strategies",1036,"lv",0.6157321,49,49.72314,50.66599,"F",69546,129564
+"207",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44088",44094,"Franklin & Marshall College",480,"lv",0.7896083,48,48.09571,48.95696,"F",69708,129978
+"208",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44089",44091,"CPEC",820,"lv",0.6651533,50.3,50.25144,51.13179,"F",69704,129973
+"209",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44089",44091,"Trafalgar Group",1006,"lv",0.4208126,47.3,49.74536,50.63671,"F",69568,129614
+"210",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44089",44116,"SurveyMonkey",6613,"lv",0.0548532,52,50.68518,51.00731,"T",70963,132793
+"211",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44090",44117,"SurveyMonkey",6946,"lv",0.0538964,52,50.68518,50.97828,"T",71025,132971
+"212",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44091",44093,"Garin-Hart-Yang Research Group",400,"lv",0.565323,53,51.22491,52.05267,"F",69984,130329
+"213",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44091",44118,"SurveyMonkey",7258,"lv",0.0514726,52,50.68518,50.95111,"T",71119,133178
+"214",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44092",44094,"Change Research",579,"lv",0.5571989,49,49.48966,50.28988,"F",69685,129907
+"215",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44092",44095,"Trafalgar Group",1006,"lv",0.4208126,48.1,50.54643,51.3217,"F",69966,130296
+"216",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44093",44120,"SurveyMonkey",8250,"lv",0.591620118676123,53,51.68642,51.89918,"T",71254,133455
+"217",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44093",44121,"SurveyMonkey",8360,"lv",0.0942056,53,51.68642,51.87418,"T",71312,133572
+"218",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44094",44097,"Fox News/Beacon Research/Shaw & Co. Research",856,"lv",1.524044,51,50.6817,51.38206,"F",69962,130284
+"219",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44095",44100,"ABC News/The Washington Post",568,"lv",1.245238,54,53.25167,53.8772,"F",70024,130435
+"220",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44095",44122,"SurveyMonkey",8532,"lv",0.591620118676123,53,51.68642,51.85089,"T",71394,133733
+"221",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44095",44123,"SurveyMonkey",8803,"lv",0.0452541,52,50.68518,50.83089,"T",71479,133917
+"222",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44096",44124,"SurveyMonkey",9131,"lv",0.089875,52,50.68518,50.81253,"T",71581,134129
+"223",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44097",44099,"Redfield & Wilton Strategies",1015,"lv",0.6559113,50,50.72319,51.33795,"F",70126,130653
+"224",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44098",44100,"IBD/TIPP",774,"lv",1.443998,49.7,50.01836,50.61081,"F",70001,130391
+"225",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44098",44125,"SurveyMonkey",9301,"lv",0.0464236,52,50.68518,50.79485,"T",71694,134354
+"226",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44099",44101,"Siena College/The New York Times Upshot",711,"lv",1.453092,49,49.56757,50.12949,"F",70017,130426
+"227",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44099",44126,"SurveyMonkey",9615,"lv",0.0476144,52,50.68518,50.77949,"T",71777,134553
+"228",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44100",44127,"SurveyMonkey",9777,"lv",0.039128,52,50.68518,50.71483,"T",71838,134684
+"229",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44101",44128,"SurveyMonkey",9903,"lv",0.0367122,52,50.68518,50.69996,"T",71905,134819
+"230",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44102",44129,"SurveyMonkey",9986,"lv",0.0694859,52,50.68518,50.68615,"T",71990,134993
+"231",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44103",44109,"Ipsos",605,"lv",0.7592051,50,50.44366,50.68629,"F",70585,131968
+"232",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44104",44106,"Siena College/The New York Times Upshot",706,"lv",1.443402,49,49.56757,49.75958,"F",70501,131409
+"233",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44104",44106,"YouGov",1187,"lv",1.099269,51,50.93061,51.13213,"F",70548,131595
+"234",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44104",44108,"Monmouth University",500,"lv",1.129217,53.5,53.07961,53.23301,"F",70599,131998
+"235",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44104",44112,"Baldwin Wallace University",1140,"lv",0.791219,49.6,50.42418,50.01,"F",70721,132290
+"236",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44104",44131,"SurveyMonkey",10250,"lv",0.0281149,52,50.68518,50.65254,"T",72100,135227
+"237",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44105",44109,"Quinnipiac University",1211,"lv",1.664769,54,52.91157,53.04825,"F",70649,132109
+"238",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44106",44108,"Change Research",468,"lv",0.547435,50,50.48972,50.62025,"F",70608,132013
+"239",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44106",44115,"Morning Consult",2610,"lv",0.9761202,52,51.83825,51.85999,"T",70760,132369
+"240",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44108",44109,"Emerson College",688,"lv",0.6241342,50.8,49.94432,50.0448,"F",70620,132039
+"241",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44108",44110,"Redfield & Wilton Strategies",927,"lv",0.4569446,49,49.72314,49.80518,"F",70709,132263
+"242",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44109",44113,"Whitman Insight Strategies",517,"lv",0.6249694,51,50.87439,50.91649,"F",70736,132328
+"243",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44110",44115,"Ipsos",622,"lv",0.6545612,51,51.4435,51.46373,"F",70741,132339
+"244",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44111",44116,"RMG Research",800,"lv",0.8066381,49,49.44573,49.45204,"F",70988,132833
+"245",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44112",44115,"Civiqs",600,"lv",0.4137503,52,50.48113,50.44353,"F",71104,133107
+"246",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44114",44116,"Trafalgar Group",1034,"lv",0.3652195,47.4,49.84554,49.80641,"F",70773,132394
+"247",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44116",44117,"Opinion Savvy/InsiderAdvantage",400,"lv",0.6001908,45.8,47.22436,47.17924,"F",71099,133095
+"248",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44116",44119,"Harris Insights & Analytics",992,"lv",0.8644356,51,51.1684,51.11764,"F",71179,133261
+"249",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44117",44119,"Trafalgar Group",1041,"lv",0.3471905,47.5,49.9457,49.88797,"F",71366,133641
+"250",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44117",44123,"Ipsos",653,"lv",0.6370794,49,49.4436,49.38496,"F",71379,133664
+"251",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44117",44124,"Muhlenberg College",416,"lv",0.8795891,51,50.76825,50.75404,"F",71736,134408
+"252",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44117",44125,"YouGov",669,"lv",0.4928795,52,51.93066,51.88079,"F",71947,134866
+"253",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44119",44123,"Suffolk University",500,"lv",1.00103,48.6,49.06382,49.00854,"F",71533,133979
+"254",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44119",44124,"SSRS",843,"lv",1.169078,53,52.09893,52.03399,"F",71564,134058
+"255",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44120",44123,"Change Research",574,"lv",0.5338545,49,49.48966,49.41466,"F",71523,133961
+"256",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44120",44123,"Quinnipiac University",1241,"lv",1.510332,51,49.90831,49.83975,"F",71555,134042
+"257",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44121",44124,"Citizen Data",1000,"lv",0.8386342,43.99,45.70989,45.65656,"F",72185,135395
+"258",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44121",44124,"Fox News/Beacon Research/Shaw & Co. Research",1045,"lv",1.7732,50,49.68164,49.60559,"F",71627,134185
+"259",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44121",44125,"Civiqs",1577,"a",0.6416456,52,52.6875,52.60624,"F",71651,134237
+"260",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44121",44129,"Univision/Latino Decisions/North Star Opinion Research",723,"rv",0.7916517,50,50.76165,50.70881,"F",72150,135277
+"261",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44122",44123,"Rasmussen Reports/Pulse Opinion Research",800,"lv",0.7878715,50,50.41825,50.3406,"F",71457,133838
+"262",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44123",44129,"Franklin & Marshall College",558,"lv",0.8776745,50,50.0958,50.03267,"F",72172,135367
+"263",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44124",44130,"Ipsos",655,"lv",0.641071,50.5,50.94361,50.88847,"F",71976,134925
+"264",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44125",44126,"Public Policy Polling",890,"v",0.7324647,51,49.69312,49.60751,"F",71678,134285
+"265",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44127",44130,"Civiqs",1145,"lv",0.8875721,52,50.96398,50.92224,"F",72039,135049
+"266",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44129",44129,"Opinion Savvy/InsiderAdvantage",400,"lv",0.5188181,45.5,46.92356,46.90091,"F",71969,134912
+"267",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44129",44131,"RMG Research",800,"lv",0.8138771,51,51.44563,51.43074,"F",72169,135361
+"268",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","44130",44133,"HarrisInsightsAnalytics",901,"lv",0.8972869,51,51.1684,51.16853,"F",72237,135523
+"270",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","NA",44129,"Trafalgar Group",1076,"lv",0.3942119,47.6,50.04585,50.01465,"F",72337,135721
+"271",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","NA",44132,"Muhlenberg College",419,"lv",0.8897241,49,48.76827,48.80106,"F",72401,135851
+"272",2020,"Pennsylvania",44138,"Joseph R. Biden Jr.","NA",44133,"SurveyMonkey",5786,"lv",0.0335261,52,50.68518,50.65336,"T",72357,135797
+"276",2020,"South Carolina",44138,"Joseph R. Biden Jr.","43886",43889,"AtlasIntel",1100,"rv",0.9533595,41.8,42.94234,44.34124,"F",64622,119272
+"277",2020,"South Carolina",44138,"Joseph R. Biden Jr.","43974",43977,"Civiqs",591,"rv",0.6887537,42,42.69104,44.33715,"F",66546,124015
+"278",2020,"South Carolina",44138,"Joseph R. Biden Jr.","44025",44031,"brilliant corners Research & Strategies",800,"lv",0.8041003,43,42.00259,43.03441,"F",67677,126709
+"279",2020,"South Carolina",44138,"Joseph R. Biden Jr.","44027",44032,"ALG Research",591,"lv",0.5650506,45,43.42951,44.4605,"F",67684,126743
+"280",2020,"South Carolina",44138,"Joseph R. Biden Jr.","44029",44029,"Gravis Marketing",604,"lv",0.7638013,46,45.50649,46.57328,"F",67578,126433
+"281",2020,"South Carolina",44138,"Joseph R. Biden Jr.","44036",44045,"Morning Consult",741,"lv",0.8276941,44,44.00369,45.00088,"T",67881,127091
+"282",2020,"South Carolina",44138,"Joseph R. Biden Jr.","44042",44046,"Quinnipiac University",914,"rv",1.306128,42,42.26971,43.25962,"F",67951,127225
+"283",2020,"South Carolina",44138,"Joseph R. Biden Jr.","44084",44088,"Quinnipiac University",969,"lv",1.367824,45,44.39022,45.28009,"F",69491,129444
+"284",2020,"South Carolina",44138,"Joseph R. Biden Jr.","44085",44094,"Morning Consult",764,"lv",0.84002,44,44.00369,44.80875,"T",69637,129829
+"285",2020,"South Carolina",44138,"Joseph R. Biden Jr.","44096",44099,"YouGov",1080,"lv",1.328531,42,42.42631,43.00054,"F",69993,130353
+"286",2020,"Texas",44138,"Joseph R. Biden Jr.","44131",44137,"Swayable",1151,"lv",0.4886183,47.2,47.09702,47.11913,"F",72774,136556
+"287",2020,"Utah",44138,"Joseph R. Biden Jr.","43845",43852,"RMG Research",1017,"rv",0.6478483,31,34.20826,36.32998,"F",63405,116395
+"288",2020,"Utah",44138,"Joseph R. Biden Jr.","43885",43891,"RMG Research",1000,"rv",0.5939063,33,36.26863,38.13718,"F",64734,119714
+"289",2020,"Utah",44138,"Joseph R. Biden Jr.","43911",43920,"Y2 Analytics",1266,"lv",1.18056,41,39.89028,42.23905,"F",65728,121489
+"290",2020,"Utah",44138,"Joseph R. Biden Jr.","43936",43942,"RMG Research",964,"rv",0.6436153,32,35.23944,37.68404,"F",65940,122163
+"291",2020,"Utah",44138,"Joseph R. Biden Jr.","43960",43966,"Y2 Analytics",1078,"lv",1.063363,39.4,38.29992,40.84112,"F",66525,123970
+"292",2020,"Utah",44138,"Joseph R. Biden Jr.","43990",44012,"SurveyMonkey",412,"lv",0.2159572,41.43,39.7579,41.0206,"F",70453,131307
+"293",2020,"Utah",44138,"Joseph R. Biden Jr.","44013",44043,"SurveyMonkey",1037,"lv",0.3906473,39.97,38.31084,39.57855,"F",70403,131205
+"294",2020,"Utah",44138,"Joseph R. Biden Jr.","44039",44044,"RMG Research",1000,"rv",0.8440243,31,34.20826,35.244,"F",67870,127241
+"295",2020,"Utah",44138,"Joseph R. Biden Jr.","44044",44074,"SurveyMonkey",893,"lv",0.3912228,41.46,39.78765,40.9435,"F",70353,131103
+"296",2020,"Utah",44138,"Joseph R. Biden Jr.","44075",44104,"SurveyMonkey",1192,"lv",0.2716615,42.3,40.62108,41.54392,"T",70301,130996
+"297",2020,"Utah",44138,"Joseph R. Biden Jr.","44081",44086,"RMG Research",1000,"lv",0.8857145,35,37.46625,38.47118,"F",69438,129462
+"298",2020,"Utah",44138,"Joseph R. Biden Jr.","44088",44116,"SurveyMonkey",1783,"lv",0.0537673,44,42.30967,42.75043,"T",70969,132799
+"299",2020,"Utah",44138,"Joseph R. Biden Jr.","44090",44117,"SurveyMonkey",1843,"lv",0.0265493,44,42.30967,42.72319,"T",71019,132965
+"300",2020,"Utah",44138,"Joseph R. Biden Jr.","44091",44118,"SurveyMonkey",1913,"lv",0.0254299,44,42.30967,42.69522,"T",71113,133172
+"301",2020,"Utah",44138,"Joseph R. Biden Jr.","44092",44119,"SurveyMonkey",2002,"lv",0.0247655,44,42.30967,42.66751,"T",71187,133322
+"302",2020,"Utah",44138,"Joseph R. Biden Jr.","44093",44120,"SurveyMonkey",2112,"lv",0.591620118676123,44,42.30967,42.63916,"T",71248,133449
+"303",2020,"Utah",44138,"Joseph R. Biden Jr.","44093",44121,"SurveyMonkey",2152,"lv",0.0453486,45,43.30414,43.60603,"T",71306,133566
+"304",2020,"Utah",44138,"Joseph R. Biden Jr.","44095",44122,"SurveyMonkey",2187,"lv",0.591620118676123,45,43.30414,43.58289,"T",71388,133727
+"305",2020,"Utah",44138,"Joseph R. Biden Jr.","44095",44123,"SurveyMonkey",2239,"lv",0.0425502,45,43.30414,43.56149,"T",71473,133911
+"306",2020,"Utah",44138,"Joseph R. Biden Jr.","44097",44124,"SurveyMonkey",2279,"lv",0.0214654,45,43.30414,43.54066,"T",71575,134123
+"307",2020,"Utah",44138,"Joseph R. Biden Jr.","44098",44125,"SurveyMonkey",2304,"lv",0.591620118676123,45,43.30414,43.51869,"T",71688,134348
+"308",2020,"Utah",44138,"Joseph R. Biden Jr.","44098",44126,"SurveyMonkey",2340,"lv",0.0393532,45,43.30414,43.49363,"T",71771,134547
+"309",2020,"Utah",44138,"Joseph R. Biden Jr.","44100",44108,"Y2 Analytics",1214,"lv",1.222924,40,38.89613,39.222,"F",70578,131811
+"310",2020,"Utah",44138,"Joseph R. Biden Jr.","44100",44127,"SurveyMonkey",2398,"lv",0.018428,45,43.30414,43.40615,"T",71832,134678
+"311",2020,"Utah",44138,"Joseph R. Biden Jr.","44101",44128,"SurveyMonkey",2434,"lv",0.591620118676123,45,43.30414,43.38609,"T",71899,134813
+"312",2020,"Utah",44138,"Joseph R. Biden Jr.","44101",44129,"SurveyMonkey",2466,"lv",0.0520788,45,43.30414,43.36729,"T",71984,134987
+"313",2020,"Utah",44138,"Joseph R. Biden Jr.","44104",44131,"SurveyMonkey",2689,"lv",0.0179548,43,41.31608,41.33171,"T",72094,135221
+"314",2020,"Utah",44138,"Joseph R. Biden Jr.","44105",44132,"SurveyMonkey",2783,"lv",0.2747538,43,41.31608,41.32626,"T",72248,135588
+"315",2020,"Utah",44138,"Joseph R. Biden Jr.","44116",44121,"RMG Research",1000,"lv",0.8812282,38,40.51583,40.4575,"F",71445,134418
+"316",2020,"Utah",44138,"Joseph R. Biden Jr.","44119",44128,"Y2 Analytics",660,"lv",0.8780674,44,42.87625,42.75739,"F",72411,135868
+"317",2020,"Utah",44138,"Joseph R. Biden Jr.","44120",44133,"SurveyMonkey",1517,"lv",0.024589,44,42.30967,42.30033,"T",72351,135791
+"318",2020,"Utah",44138,"Joseph R. Biden Jr.","44121",44134,"SurveyMonkey",1511,"lv",0.0249719,43,41.31608,41.30848,"T",72430,135956
+"319",2020,"Utah",44138,"Joseph R. Biden Jr.","44122",44135,"SurveyMonkey",1519,"lv",0.0513227,43,41.31608,41.30889,"T",72531,136153
+"320",2020,"Utah",44138,"Joseph R. Biden Jr.","44124",44136,"SurveyMonkey",1435,"lv",0.3479773,44,42.30967,42.31537,"T",72669,136422
+"321",2020,"Vermont",44138,"Joseph R. Biden Jr.","43990",44012,"SurveyMonkey",113,"lv",0.1127496,74.91,73.32545,74.66182,"F",70451,131305
+"322",2020,"Vermont",44138,"Joseph R. Biden Jr.","44013",44043,"SurveyMonkey",368,"lv",0.2985707,71.18,69.51198,70.98692,"F",70401,131203
+"323",2020,"Vermont",44138,"Joseph R. Biden Jr.","44044",44074,"SurveyMonkey",236,"lv",0.1879181,70.48,68.79805,69.96854,"F",70351,131101
+"324",2020,"Vermont",44138,"Joseph R. Biden Jr.","44075",44104,"SurveyMonkey",427,"lv",0.0718191,64.06,62.27453,63.14929,"T",70299,130994
+"325",2020,"Vermont",44138,"Joseph R. Biden Jr.","44077",44089,"Braun Research",586,"lv",0.8636532,55.73,57.28205,58.2062,"F",69647,129842
+"326",2020,"Vermont",44138,"Joseph R. Biden Jr.","44088",44116,"SurveyMonkey",557,"lv",0.0067446,65,63.22701,63.67144,"T",70970,132800
+"327",2020,"Vermont",44138,"Joseph R. Biden Jr.","44089",44117,"SurveyMonkey",579,"lv",0.0139316,65,63.22701,63.64939,"T",71017,132963
+"328",2020,"Vermont",44138,"Joseph R. Biden Jr.","44091",44118,"SurveyMonkey",610,"lv",0.0075573,66,64.24128,64.64209,"T",71111,133170
+"329",2020,"Vermont",44138,"Joseph R. Biden Jr.","44092",44119,"SurveyMonkey",651,"lv",0.008022,67,65.25658,65.63232,"T",71185,133320
+"330",2020,"Vermont",44138,"Joseph R. Biden Jr.","44093",44120,"SurveyMonkey",730,"lv",0.008951,67,65.25658,65.60562,"T",71246,133447
+"331",2020,"Vermont",44138,"Joseph R. Biden Jr.","44094",44121,"SurveyMonkey",759,"lv",0.0092644,67,65.25658,65.57535,"T",71304,133564
+"332",2020,"Vermont",44138,"Joseph R. Biden Jr.","44095",44122,"SurveyMonkey",769,"lv",0.009348,67,65.25658,65.55186,"T",71386,133725
+"333",2020,"Vermont",44138,"Joseph R. Biden Jr.","44096",44123,"SurveyMonkey",785,"lv",0.591620118676123,67,65.25658,65.53284,"T",71471,133909
+"334",2020,"Vermont",44138,"Joseph R. Biden Jr.","44096",44124,"SurveyMonkey",829,"lv",0.0096588,66,64.24128,64.50285,"T",71573,134121
+"335",2020,"Vermont",44138,"Joseph R. Biden Jr.","44097",44125,"SurveyMonkey",858,"lv",0.0099644,66,64.24128,64.48678,"T",71686,134346
+"336",2020,"Vermont",44138,"Joseph R. Biden Jr.","44098",44126,"SurveyMonkey",939,"lv",0.021749,66,64.24128,64.47486,"T",71769,134545
+"337",2020,"Vermont",44138,"Joseph R. Biden Jr.","44100",44127,"SurveyMonkey",969,"lv",0.591620118676123,67,65.25658,65.41576,"T",71830,134676
+"338",2020,"Vermont",44138,"Joseph R. Biden Jr.","44100",44128,"SurveyMonkey",978,"lv",0.0221187,67,65.25658,65.39809,"T",71897,134811
+"339",2020,"Vermont",44138,"Joseph R. Biden Jr.","44102",44129,"SurveyMonkey",1002,"lv",0.0233641,67,65.25658,65.38388,"T",71982,134985
+"340",2020,"Vermont",44138,"Joseph R. Biden Jr.","44104",44131,"SurveyMonkey",1087,"lv",0.0124457,68,66.27293,66.36275,"T",72092,135219
+"341",2020,"Vermont",44138,"Joseph R. Biden Jr.","44105",44132,"SurveyMonkey",1167,"lv",0.199798,69,67.29033,67.37616,"T",72246,135586
+"342",2020,"Vermont",44138,"Joseph R. Biden Jr.","44120",44133,"SurveyMonkey",749,"lv",0.0178015,69,67.29033,67.32158,"T",72349,135789
+"343",2020,"Vermont",44138,"Joseph R. Biden Jr.","44121",44134,"SurveyMonkey",734,"lv",0.017527,70,68.30879,68.33289,"T",72428,135954
+"344",2020,"Vermont",44138,"Joseph R. Biden Jr.","44122",44135,"SurveyMonkey",737,"lv",0.0353829,71,69.32835,69.34655,"T",72529,136151
+"345",2020,"Vermont",44138,"Joseph R. Biden Jr.","44123",44124,"co/efficient",584,"lv",0.5290526,62,63.57672,63.69811,"F",72218,135482
+"346",2020,"Vermont",44138,"Joseph R. Biden Jr.","44124",44136,"SurveyMonkey",719,"lv",0.2431795,71,69.32835,69.35448,"T",72667,136420
+"347",2020,"West Virginia",44138,"Joseph R. Biden Jr.","43990",44012,"SurveyMonkey",264,"lv",0.1946796,27.06,26.49252,27.50639,"F",70448,131302
+"348",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44013",44043,"SurveyMonkey",494,"lv",0.2843392,31.78,31.17819,32.29874,"F",70398,131200
+"349",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44089",44116,"SurveyMonkey",771,"lv",0.0187516,34,33.38488,33.68737,"T",70973,132803
+"350",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44090",44117,"SurveyMonkey",824,"lv",0.591620118676123,34,33.38488,33.66391,"T",71014,132960
+"351",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44090",44118,"SurveyMonkey",857,"lv",0.0359168,34,33.38488,33.64212,"T",71108,133167
+"352",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44092",44119,"SurveyMonkey",914,"lv",0.0188782,34,33.38488,33.62046,"T",71182,133317
+"353",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44093",44120,"SurveyMonkey",972,"lv",0.0191807,35,34.37946,34.59286,"T",71243,133444
+"354",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44094",44121,"SurveyMonkey",1002,"lv",0.0189597,34,33.38488,33.57158,"T",71301,133561
+"355",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44095",44122,"SurveyMonkey",1020,"lv",0.0185693,33,32.39066,32.55246,"T",71383,133722
+"356",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44096",44123,"SurveyMonkey",1075,"lv",0.0188888,32,31.39679,31.53761,"T",71468,133906
+"357",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44097",44124,"SurveyMonkey",1115,"lv",0.0189664,32,31.39679,31.51932,"T",71570,134118
+"358",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44098",44125,"SurveyMonkey",1154,"lv",0.591620118676123,32,31.39679,31.50196,"T",71683,134343
+"359",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44098",44126,"SurveyMonkey",1203,"lv",0.0369667,33,32.39066,32.48103,"T",71766,134542
+"360",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44100",44127,"SurveyMonkey",1223,"lv",0.0172768,33,32.39066,32.43481,"T",71827,134673
+"361",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44101",44128,"SurveyMonkey",1250,"lv",0.0171968,33,32.39066,32.42422,"T",71894,134808
+"362",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44102",44129,"SurveyMonkey",1271,"lv",0.0341592,33,32.39066,32.41539,"T",71979,134982
+"363",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44103",44104,"Triton Polling & Research",525,"rv",0.5731432,38,38.20701,38.52937,"F",70625,132056
+"364",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44104",44131,"SurveyMonkey",1315,"lv",0.0161758,33,32.39066,32.40425,"T",72089,135216
+"365",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44105",44110,"Research America Inc.",450,"lv",0.6126379,39,38.51056,38.66589,"F",70703,132427
+"366",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44105",44132,"SurveyMonkey",1359,"lv",0.2470967,32,31.39679,31.41024,"T",72243,135583
+"367",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44120",44133,"SurveyMonkey",791,"lv",0.0228282,32,31.39679,31.40299,"T",72346,135786
+"368",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44121",44134,"SurveyMonkey",805,"lv",0.0236638,32,31.39679,31.40177,"T",72425,135951
+"369",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44122",44135,"SurveyMonkey",798,"lv",0.0479016,33,32.39066,32.39459,"T",72526,136148
+"370",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44123",44124,"Triton Polling & Research",544,"lv",0.5765287,37.9,37.2532,37.26599,"F",71748,134435
+"371",2020,"West Virginia",44138,"Joseph R. Biden Jr.","44124",44136,"SurveyMonkey",738,"lv",0.3180303,32,31.39679,31.40447,"T",72664,136417
+"372",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44036",44045,"Morning Consult",797,"lv",0.0610143,52,51.89557,53.17028,"T",68429,128115
+"373",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44041",44050,"Morning Consult",797,"lv",0.0608936,51,50.89549,52.10946,"T",68434,128120
+"374",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43782",43786,"Marquette University Law School",685,"lv",1.375621,45,45.01506,47.43135,"F",62674,124822
+"375",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43802",43804,"Optimus",610,"lv",0.7452961,39.08,40.41311,43.37107,"F",63026,114314
+"376",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43802",43807,"Marquette University Law School",652,"lv",1.284856,49,49.01516,52.14749,"F",63090,124823
+"377",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43835",43838,"Fox News/Beacon Research/Shaw & Co. Research",1504,"rv",2.083902,46,47.05737,49.87545,"F",63246,115582
+"378",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43838",43842,"Marquette University Law School",701,"lv",1.45004,48,48.01514,50.75769,"F",63282,124824
+"379",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43844",43846,"Tarrance Group",500,"lv",0.8299353,47,46.8578,49.60072,"F",63578,117018
+"380",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43867",43879,"Expedition Strategies",500,"rv",0.6358964,42,43.48149,46.23914,"F",64743,119732
+"381",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43872",43881,"YouGov",936,"rv",1.123359,45,46.12972,48.92914,"F",64500,118781
+"382",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43873",43879,"Quinnipiac University",823,"rv",1.210217,42,43.12814,45.88309,"F",64472,118606
+"383",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43880",43884,"Marquette University Law School",1000,"rv",1.76694,46,46.90047,49.70446,"F",64588,119094
+"384",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43895",43897,"Optimus",502,"lv",0.6686068,43.07,44.42627,47.03608,"F",64757,119789
+"385",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43896",43898,"YouGov",459,"rv",0.6826778,44,45.12686,47.78362,"F",64768,119818
+"386",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43900",43901,"Public Policy Polling",1727,"v",1.749676,48,47.4684,50.16145,"F",64807,119955
+"387",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43907",43909,"Hodas & Associates",600,"lv",0.7015365,46.5,45.89333,48.60472,"F",65003,120541
+"388",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43907",43915,"Baldwin Wallace University",822,"rv",0.6705672,44.9,46.21757,48.99532,"F",64988,120502
+"389",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43914",43919,"Marquette University Law School",813,"rv",1.467748,48,48.90282,51.76805,"F",65050,120701
+"390",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43927",43929,"Garin-Hart-Yang Research Group",301,"lv",0.4699908,48,46.60241,49.49724,"F",65735,121499
+"391",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43934",43936,"Hodas & Associates",600,"lv",0.7015365,50,49.39109,51.93487,"F",65908,122094
+"392",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43936",43941,"Ipsos",645,"rv",0.8281578,43,44.38225,46.88367,"F",65865,121903
+"393",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43941",43942,"Public Policy Polling",1415,"v",1.130882,50,48.75104,51.24468,"F",65903,122086
+"394",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43957",43959,"Hodas & Associates",600,"lv",0.7015365,51.5,50.8913,53.54177,"F",66402,123703
+"395",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43961",43965,"Redfield & Wilton Strategies",875,"lv",0.7969701,48,48.90163,51.48478,"F",66507,123931
+"396",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43980",43982,"Change Research",382,"lv",0.4973621,45,45.30266,47.1792,"F",66715,124439
+"397",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43981",43984,"Fox News/Beacon Research/Shaw & Co. Research",801,"rv",1.294408,49,50.06056,51.8259,"F",66726,124471
+"398",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43990",43997,"Siena College/The New York Times Upshot",655,"rv",1.218247,49,50.18238,51.61221,"F",66897,124899
+"399",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43994",43996,"Change Research",231,"lv",0.3064567,48,48.30422,49.69922,"F",66831,124715
+"400",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43994",43998,"Hodas & Associates",600,"lv",0.7015365,55.33,54.725,56.09633,"F",66901,124920
+"401",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","43996",44001,"Redfield & Wilton Strategies",846,"lv",0.7862581,45,45.89742,47.23138,"F",66909,124936
+"402",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44005",44007,"Trafalgar Group",1021,"lv",0.6540527,44.6,47.58689,48.91557,"F",66932,124981
+"403",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44008",44010,"Change Research",502,"lv",0.5248306,51,51.30438,52.63076,"F",66961,125034
+"404",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44034",44043,"Morning Consult",797,"lv",0.0616187,50,49.89547,51.19632,"T",68427,128113
+"405",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44035",44044,"Morning Consult",797,"lv",0.0612279,51,50.89549,52.18348,"T",68428,128114
+"406",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44037",44046,"Morning Consult",797,"lv",0.0609235,51,50.89549,52.16029,"T",68430,128116
+"407",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44038",44047,"Morning Consult",797,"lv",0.0608964,51,50.89549,52.14967,"T",68431,128117
+"408",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44039",44048,"Morning Consult",797,"lv",0.0608776,51,50.89549,52.13704,"T",68432,128118
+"409",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44040",44049,"Morning Consult",797,"lv",0.0609195,51,50.89549,52.12191,"T",68433,128119
+"410",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44042",44051,"Morning Consult",797,"lv",0.0598521,51,50.89549,52.09869,"T",68435,128121
+"411",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44043",44052,"Morning Consult",797,"lv",0.0588776,50,49.89547,51.08915,"T",68436,128122
+"412",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44044",44053,"Morning Consult",797,"lv",0.0580641,50,49.89547,51.07791,"T",68437,128123
+"413",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44045",44054,"Morning Consult",797,"lv",0.0572927,50,49.89547,51.06627,"T",68438,128124
+"414",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44046",44055,"Morning Consult",797,"lv",0.054839,50,49.89547,51.03081,"T",68439,128125
+"415",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44047",44056,"NA",99,"lv",0.053966,50,49.89547,51.01786,"T",68440,128126
+"416",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44048",44057,"Morning Consult",797,"lv",0.0532087,50,49.89547,51.00856,"T",68441,128127
+"417",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44049",44058,"Morning Consult",797,"lv",0.1051971,50,49.89547,51.00303,"T",68442,128128
+"418",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44051",44060,"Morning Consult",797,"lv",0.0541751,48,47.89558,48.99105,"T",68443,128129
+"419",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44052",44061,"Morning Consult",797,"lv",0.0581756,50,49.89547,50.98494,"T",68444,128130
+"420",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44053",44062,"Morning Consult",797,"lv",0.0624365,51,50.89549,51.99853,"T",68445,128131
+"421",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44054",44063,"Morning Consult",797,"lv",0.0674295,51,50.89549,52.02598,"T",68446,128132
+"422",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44055",44064,"Morning Consult",797,"lv",0.0778953,50,49.89547,51.07835,"T",68447,128133
+"423",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44056",44065,"Morning Consult",797,"lv",0.0786242,50,49.89547,51.08849,"T",68448,128134
+"424",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44057",44066,"Morning Consult",797,"lv",0.0794119,51,50.89549,52.09915,"T",68449,128135
+"425",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44058",44067,"Morning Consult",797,"lv",0.0807407,50,49.89547,51.10677,"T",68450,128136
+"426",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44059",44068,"Morning Consult",797,"lv",0.0836143,51.5,50.89549,52.11339,"T",68451,128137
+"427",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44060",44063,"Hodas & Associates",600,"lv",0.7015365,51.91,51.30148,52.5119,"F",68485,128206
+"428",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44060",44069,"Morning Consult",797,"lv",0.0870957,52,51.89557,53.11942,"T",68452,128138
+"430",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44065",44074,"Morning Consult",819,"lv",0.0840924,53,52.8957,54.11799,"T",68456,128142
+"431",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44066",44075,"Morning Consult",809,"lv",0.0812179,52,51.89557,53.11373,"T",68457,128143
+"432",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44067",44076,"Morning Consult",2549,"lv",0.0799419,52,51.89557,53.1062,"T",68471,128182
+"433",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44068",44077,"Morning Consult",797,"lv",0.0763917,52,51.89557,53.08863,"T",68488,128216
+"434",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44069",44078,"Morning Consult",775,"lv",0.0720719,51,50.89549,52.0688,"T",68490,128220
+"435",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44070",44079,"Morning Consult",763,"lv",0.0688391,50,49.89547,51.03762,"T",68496,128232
+"436",2020,"Wisconsin",44138,"Joseph R. Biden Jr.","44076",44078,"YouGov",978,"lv",1.16881,50,50.24722,51.38994,"F",68495,128231
+"437",2020,"Wyoming",44138,"Joseph R. Biden Jr.","44120",44133,"SurveyMonkey",2549,"lv",0.6241342,33,31.85685,31.85221,"T",72345,135785
+"438",2020,"Wyoming",44138,"Joseph R. Biden Jr.","44104",44131,"SurveyMonkey",713,"lv",0.0119884,32,30.86854,30.87991,"T",72088,135215
+"439",2020,"Wyoming",44138,"Joseph R. Biden Jr.","44102",44129,"SurveyMonkey",654,"lv",0.021818,31,29.88091,29.91348,"T",71978,134981
+"440",2020,"Wyoming",44138,"Joseph R. Biden Jr.","44105",44132,"SurveyMonkey",739,"lv",0.1867351,31,29.88091,29.88982,"T",72242,135582
+"442",2020,"Wyoming",44138,"Joseph R. Biden Jr.","44121",44134,"SurveyMonkey",378,"lv",0.0134396,33,31.85685,31.85175,"T",72424,135950
+"443",2020,"Wyoming",44138,"Joseph R. Biden Jr.","44122",44135,"SurveyMonkey",361,"lv",0.0257641,34,32.84583,32.83956,"T",72525,136147
+"444",2020,"Wyoming",44138,"Joseph R. Biden Jr.","44124",44136,"SurveyMonkey",330,"lv",0.165557,33,31.85685,31.8563,"T",72663,136416
